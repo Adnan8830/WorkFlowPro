@@ -34,7 +34,7 @@ jobs:
 
     defaults:
       run:
-        working-directory: WorkFlowProNew.ui
+        working-directory: WorkFlowProNew.UI
 
     steps:
 
